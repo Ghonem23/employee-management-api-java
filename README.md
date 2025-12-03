@@ -79,7 +79,6 @@ javac *.java
 java Main
 ```
 
-*(If you used Spring Boot:)*  
 ```bash
 mvn spring-boot:run
 ```

@@ -1,15 +1,15 @@
-# Employee Management API (Java)  
-A simple RESTful API built in Java that allows adding employees and viewing all employees.  
-This project was created as a basic backend assignment to demonstrate API development skills.
+# Employee Management API (Java – Spring Boot)
+A clean and simple RESTful API built using Java and Spring Boot that allows adding new employees and retrieving all employees.
+This project was created as part of a backend assignment to demonstrate real-world API development skills, layered architecture, and clean code organization.
 
 ---
 
 ## 🚀 Features
-- Add a new employee  
-- View all employees  
-- Simple in-memory storage  
-- Lightweight & fast to run  
-- Clear API endpoints  
+➕ Add a new employee
+👀 View all employees
+💾 In-memory storage for simplicity
+⚡ Lightweight, fast, and easy to run
+🧩 Layered architecture (Controller → Service → Repository)
 
 ---
 
@@ -98,14 +98,45 @@ Screenshot of successful API output is included in the repository under `/screen
 ## 📁 Project Structure (Example)
 
 ```
-/src
-  ├── Employee.java
-  ├── EmployeeService.java
-  ├── Main.java
-  └── ...
-/screenshots
-  └── output.png
-README.md
+employee-api/
+├── src/
+│   ├── main/
+│   │   ├── java/
+│   │   │   └── com/
+│   │   │       └── ghonem/
+│   │   │           └── employee_api/
+│   │   │               ├── controller/
+│   │   │               │   ├── EmployeeController.java
+│   │   │               │   └── WelcomeController.java
+│   │   │               │
+│   │   │               ├── model/
+│   │   │               │   └── Employee.java
+│   │   │               │
+│   │   │               ├── repository/
+│   │   │               │   └── EmployeeRepository.java
+│   │   │               │
+│   │   │               ├── Screenshot of output/
+│   │   │               │   ├── Browser view.png
+│   │   │               │   ├── Create 1st employee.png
+│   │   │               │   ├── Create 2nd employee.png
+│   │   │               │   ├── Display all employees.png
+│   │   │               │   └── Welcome page.png
+│   │   │               │
+│   │   │               ├── service/
+│   │   │               │   └── EmployeeService.java
+│   │   │               │
+│   │   │               └── EmployeeApiApplication.java
+│   │   │
+│   │   └── resources/
+│   │       └── application.properties
+│   │
+│   └── test/
+│       └── (test files if any)
+│
+├── target/
+├── .gitattributes
+├── .gitignore
+└── README.md
 ```
 
 ---

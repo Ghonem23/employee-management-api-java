@@ -52,7 +52,7 @@ This project was created as a basic backend assignment to demonstrate API develo
 [
   {
     "id": 1,
-    "name": "Ahmed Hassan",
+    "name": "Ahmed Hussein",
     "position": "Backend Developer"
   }
 ]
@@ -106,7 +106,7 @@ README.md
 
 ## 👤 Author
 **Ahmed Hussein Mohamed**  
-Fresh Graduate Software Engineer  
+Junior Software Engineer  
 
 - 📧 Email: ahmghonem23@gmail.com  
 - 📱 Mobile: +201151476406  

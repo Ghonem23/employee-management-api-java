@@ -16,6 +16,7 @@ This project was created as part of a backend assignment to demonstrate real-wor
 ## 🛠 Technologies Used
 - Java  
 - Spring Boot
+- Spring Web
 - JSON
 - REST API  
 
@@ -72,15 +73,15 @@ git clone https://github.com/Ghonem23/employee-api-java.git
 ```bash
 cd employee-api-java
 ```
-
-3. Compile and run:
-```bash
-javac *.java
-java Main
-```
+3. Run using Maven:
 
 ```bash
 mvn spring-boot:run
+```
+
+The API will run at:
+```bash
+👉 http://localhost:8080
 ```
 
 ---

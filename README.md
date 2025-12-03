@@ -86,6 +86,11 @@ mvn spring-boot:run
 
 ## 📸 Output Screenshot
 Screenshot of successful API output is included in the repository under `/screenshots`.
+<img width="1853" height="425" alt="Welcome page" src="https://github.com/user-attachments/assets/02c97caf-e1e0-4e82-b802-28c98e932826" />
+<img width="1542" height="854" alt="Dispaly all employees" src="https://github.com/user-attachments/assets/306ed8eb-0a5f-450f-9a4f-baf962153ab3" />
+<img width="1848" height="431" alt="Create 2nd employee" src="https://github.com/user-attachments/assets/d7f1dc57-c77d-402e-908b-ebcbc9a46270" />
+<img width="1848" height="431" alt="Create 1st employee" src="https://github.com/user-attachments/assets/58cc99f9-c07b-4814-a668-9edd02b19dff" />
+<img width="1848" height="431" alt="Browser view" src="https://github.com/user-attachments/assets/a2066296-c4d9-4468-97a0-bde28c9ae5aa" />
 
 ---
 

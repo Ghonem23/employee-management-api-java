@@ -5,11 +5,11 @@ This project was created as part of a backend assignment to demonstrate real-wor
 ---
 
 ## 🚀 Features
-➕ Add a new employee
-👀 View all employees
-💾 In-memory storage for simplicity
-⚡ Lightweight, fast, and easy to run
-🧩 Layered architecture (Controller → Service → Repository)
+-➕ Add a new employee
+-👀 View all employees
+-💾 In-memory storage for simplicity
+-⚡ Lightweight, fast, and easy to run
+-🧩 Layered architecture (Controller → Service → Repository)
 
 ---
 

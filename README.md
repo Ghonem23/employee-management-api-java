@@ -31,7 +31,8 @@ This project was created as a basic backend assignment to demonstrate API develo
 {
   "id": 1,
   "name": "Ahmed Hussein",
-  "position": "Backend Developer"
+  "email": "ahmghonem23@gmail.com",
+  "role": "Backend Developer"
 }
 ```
 
@@ -53,7 +54,8 @@ This project was created as a basic backend assignment to demonstrate API develo
   {
     "id": 1,
     "name": "Ahmed Hussein",
-    "position": "Backend Developer"
+    "email": "ahmghonem23@gmail.com",
+    "role": "Backend Developer"
   }
 ]
 ```

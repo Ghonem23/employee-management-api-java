@@ -15,8 +15,8 @@ This project was created as a basic backend assignment to demonstrate API develo
 
 ## 🛠 Technologies Used
 - Java  
-- Spring Boot *(if applicable—remove if not used)*  
-- JSON (for request/response formatting)  
+- Spring Boot
+- JSON
 - REST API  
 
 ---
@@ -30,7 +30,7 @@ This project was created as a basic backend assignment to demonstrate API develo
 ```json
 {
   "id": 1,
-  "name": "Ahmed Hassan",
+  "name": "Ahmed Hussein",
   "position": "Backend Developer"
 }
 ```
